@@ -1,1 +1,2 @@
 “Usuario=vagrant”
+model name	: AMD Ryzen 7 8845HS w/ Radeon 780M Graphics
